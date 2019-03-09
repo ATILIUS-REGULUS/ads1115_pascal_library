@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="ads1115_project.ppr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="22" Y="8"/>
+        <UsageCount Value="28"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Main_F"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main_Unit"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="ads1115_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ADS1115_Unit"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="seismometer_ads1115_v_0_1_unit.pas"/>
+        <ComponentName Value="Main_F"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Seismometer_ADS1115_V_0_1_Unit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="45" Y="11"/>
+        <UsageCount Value="20"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="main_unit.frm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53"/>
+        <CursorPos Y="79"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="FRM"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="372" TopLine="346"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="375" TopLine="349"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="376" TopLine="350"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="377" TopLine="351"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="378" TopLine="352"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="380" TopLine="354"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="381" TopLine="355"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="382" TopLine="356"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="383" TopLine="357"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="388" Column="63" TopLine="365"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="390" TopLine="365"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="394" TopLine="368"/>
+      </Position12>
+      <Position13>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="395" TopLine="369"/>
+      </Position13>
+      <Position14>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="397" TopLine="371"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="400" Column="40"/>
+      </Position15>
+      <Position16>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="409" Column="29" TopLine="393"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="21" Column="66"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="288" Column="85" TopLine="265"/>
+      </Position18>
+      <Position19>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="96" TopLine="82"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="152" Column="81" TopLine="109"/>
+      </Position20>
+      <Position21>
+        <Filename Value="main_unit.pas"/>
+      </Position21>
+      <Position22>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="10"/>
+      </Position22>
+      <Position23>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="11"/>
+      </Position23>
+      <Position24>
+        <Filename Value="main_unit.pas"/>
+      </Position24>
+      <Position25>
+        <Filename Value="ads1115_unit.pas"/>
+      </Position25>
+      <Position26>
+        <Filename Value="main_unit.pas"/>
+      </Position26>
+      <Position27>
+        <Filename Value="ads1115_unit.pas"/>
+      </Position27>
+      <Position28>
+        <Filename Value="main_unit.pas"/>
+      </Position28>
+      <Position29>
+        <Filename Value="ads1115_unit.pas"/>
+      </Position29>
+      <Position30>
+        <Filename Value="ads1115_unit.pas"/>
+        <Caret Line="25" Column="79"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="4">
+      <Item1>
+        <Expression Value="I2C_Buffer_A"/>
+      </Item1>
+      <Item2>
+        <Expression Value="IOCTL_Data"/>
+        <DisplayStyle Value="wdfMemDump"/>
+      </Item2>
+      <Item3>
+        <Expression Value="args"/>
+        <DisplayStyle Value="wdfMemDump"/>
+      </Item3>
+      <Item4>
+        <Expression Value="Result"/>
+      </Item4>
+    </Watches>
+  </Debugging>
+</CONFIG>
